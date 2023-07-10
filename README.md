@@ -1,6 +1,6 @@
 # This notebook organises a RandomForest Classifier into python classes for easy extension of code
 
-# We import a customer-churn dataset with a label 'Churn' :0/1
+We import a customer-churn dataset with a label 'Churn' :0/1
 
 Custom Class: Define a CustomClassifier that inherits a RandomForest Classifier from python's scikitlearn library.
               We define test_size and random_state as class attributes
